@@ -1,0 +1,9 @@
+C:\Users\Lu\Documents\Visual Studio 2013\Projects\HuaRongDao\HuaRongDao\bin\Debug\HuaRongDao.exe.config
+C:\Users\Lu\Documents\Visual Studio 2013\Projects\HuaRongDao\HuaRongDao\bin\Debug\HuaRongDao.exe
+C:\Users\Lu\Documents\Visual Studio 2013\Projects\HuaRongDao\HuaRongDao\bin\Debug\HuaRongDao.pdb
+C:\Users\Lu\Documents\Visual Studio 2013\Projects\HuaRongDao\HuaRongDao\obj\Debug\HuaRongDao.csprojResolveAssemblyReference.cache
+C:\Users\Lu\Documents\Visual Studio 2013\Projects\HuaRongDao\HuaRongDao\obj\Debug\HuaRongDao.Form1.resources
+C:\Users\Lu\Documents\Visual Studio 2013\Projects\HuaRongDao\HuaRongDao\obj\Debug\HuaRongDao.Properties.Resources.resources
+C:\Users\Lu\Documents\Visual Studio 2013\Projects\HuaRongDao\HuaRongDao\obj\Debug\HuaRongDao.csproj.GenerateResource.Cache
+C:\Users\Lu\Documents\Visual Studio 2013\Projects\HuaRongDao\HuaRongDao\obj\Debug\HuaRongDao.exe
+C:\Users\Lu\Documents\Visual Studio 2013\Projects\HuaRongDao\HuaRongDao\obj\Debug\HuaRongDao.pdb
